@@ -1,0 +1,8 @@
+{
+  "name": "Golden Bird Charcoal & Export",
+  "description": "المصنع الرائد لإنتاج وتصدير الفحم النباتي الطبيعي والمضغوط ومكعبات جوز الهند مع دعم بروتوكول WebMCP لأتمتة عروض الأسعار وحسابات الحاويات والتحقق الرقمي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
