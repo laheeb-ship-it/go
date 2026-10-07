@@ -1,0 +1,38 @@
+{
+  "name": "المحيط والملاحة البحرية",
+  "name_en": "Maritime Ocean & Global Cargo",
+  "slug": "maritime_ocean",
+  "version": "3.0.0",
+  "author": "Golden Bird Charcoal Design Studio",
+  "author_url": "https://goldnberd.com",
+  "description": "قالب مستوحى من خطوط الملاحة البحرية الدولية وموانئ الشحن وسفن الحاويات، بألوان الأزرق البحري والأزور اللوجستي.",
+  "category": "logistics",
+  "category_label": "لوجستي وملاحة بحرية",
+  "style_archetype": "ocean_cargo",
+  "is_dark": false,
+  "tags": ["موانئ", "شحن بحري", "حاويات", "تصدير دولي", "لوجستيات"],
+  "fonts": {
+    "heading": "'Cairo', 'Plus Jakarta Sans', sans-serif",
+    "body": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "palette": {
+    "primary": "#082f49",
+    "primary_light": "#0c4a6e",
+    "accent": "#0284c7",
+    "accent_hover": "#0369a1",
+    "bg": "#f0f9ff",
+    "surface": "#ffffff",
+    "text": "#0f172a",
+    "border": "#bae6fd"
+  },
+  "features": [
+    "تصميم يعكس قوة شبكة الشحن البحري والاتصال بالموانئ العالمية",
+    "إبراز مباشر لحاسبة الحاويات وشروط الإنكوترمز FOB و CIF",
+    "هيكل تنظيمي احترافي لمسؤولي المشتريات وخطوط الملاحة"
+  ],
+  "options": {
+    "header_style": "cargo",
+    "container_width": "standard",
+    "card_radius": "rounded"
+  }
+}

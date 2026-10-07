@@ -1,0 +1,38 @@
+{
+  "name": "الزمرد الزراعي والبيئي",
+  "name_en": "Emerald Agro & Eco Charcoal",
+  "slug": "emerald_agro",
+  "version": "3.0.0",
+  "author": "Golden Bird Charcoal Design Studio",
+  "author_url": "https://goldnberd.com",
+  "description": "قالب مخصص للمنتجات البيئية وفحم الحمضيات النقي ومزارع الموالح والحاصلات الزراعية، بتدرجات الأخضر الزمردي المنعش.",
+  "category": "nature",
+  "category_label": "بيئي وزراعي",
+  "style_archetype": "emerald_eco",
+  "is_dark": false,
+  "tags": ["بيئي", "زراعي", "فحم برتقال", "طبيعي 100%", "حاصلات"],
+  "fonts": {
+    "heading": "'Cairo', 'Plus Jakarta Sans', sans-serif",
+    "body": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "palette": {
+    "primary": "#064e3b",
+    "primary_light": "#065f46",
+    "accent": "#10b981",
+    "accent_hover": "#059669",
+    "bg": "#f0fdf4",
+    "surface": "#ffffff",
+    "text": "#0f172a",
+    "border": "#bbf7d0"
+  },
+  "features": [
+    "تدرجات خضراء زمردية تعكس نقاء المنتجات وصداقتها للبيئة",
+    "عناصر واجهة حيوية تبرز شهادات الزراعة العضوية وفحوصات الجودة",
+    "أزرار وبطاقات مريحة وجذابة للمستوردين العالميين"
+  ],
+  "options": {
+    "header_style": "fresh",
+    "container_width": "standard",
+    "card_radius": "rounded"
+  }
+}

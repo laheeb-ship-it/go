@@ -1,0 +1,38 @@
+{
+  "name": "صحراء الذهب والطلح التصديري",
+  "name_en": "Sahara Gold & Acacia Heritage",
+  "slug": "sahara_gold",
+  "version": "3.0.0",
+  "author": "Golden Bird Charcoal Design Studio",
+  "author_url": "https://goldnberd.com"
+  "description": "قالب مستوحى من أخشاب الطلح الإفريقي وفحم الصحراء الطبيعي، بتدرجات اللون الكهرماني والرمال الذهبية الدافئة.",
+  "category": "heritage",
+  "category_label": "أصالة وتراث تصديري",
+  "style_archetype": "desert_amber",
+  "is_dark": false,
+  "tags": ["طلح", "صحراء", "أصالة", "فحم طبيعي", "تصدير"],
+  "fonts": {
+    "heading": "'Cairo', 'Plus Jakarta Sans', sans-serif",
+    "body": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "palette": {
+    "primary": "#78350f",
+    "primary_light": "#92400e",
+    "accent": "#d97706",
+    "accent_hover": "#b45309",
+    "bg": "#fefce8",
+    "surface": "#ffffff",
+    "text": "#292524",
+    "border": "#fde68a"
+  },
+  "features": [
+    "تدرجات كهرمانية ونحاسية دافئة تعكس عراقة تصنيع الفحم",
+    "تصميم هادئ ومريح للعين مع وضوح عالي للنصوص والجداول",
+    "أزرار وبطاقات بطابع صحراوي ذهبي أصيل"
+  ],
+  "options": {
+    "header_style": "classic",
+    "container_width": "standard",
+    "card_radius": "rounded"
+  }
+}

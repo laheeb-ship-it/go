@@ -1,0 +1,39 @@
+{
+  "name": "جولدن بيرد الملكي الفاخر",
+  "name_en": "Golden Bird Royal Charcoal & Gold",
+  "slug": "royal_navy",
+  "version": "3.0.0",
+  "author": "Golden Bird Charcoal Design Studio",
+  "author_url": "https://goldnberd.com",
+  "description": "القالب الرسمي الكلاسيكي المعتمد لشركة Golden Bird Charcoal. يعتمد على اللون الكحلي والأسود الكربوني مع لمسات ذهبية ملكية تعكس الهيبة التصديرية والموثوقية العالية.",
+  "category": "classic",
+  "category_label": "رسمي وتصديري فاخر",
+  "style_archetype": "classic_luxury",
+  "is_dark": false,
+  "tags": ["فحم نباتي", "تصدير دولي", "ملكي", "شركات كبرى", "فخامة"],
+  "fonts": {
+    "heading": "'Cairo', 'Plus Jakarta Sans', sans-serif",
+    "body": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "palette": {
+    "primary": "#0B111E",
+    "primary_light": "#1E293B",
+    "accent": "#F59E0B",
+    "accent_hover": "#D97706",
+    "bg": "#F8FAFC",
+    "surface": "#FFFFFF",
+    "text": "#0F172A",
+    "border": "#E2E8F0"
+  },
+  "features": [
+    "هيدر كحلي داكن فاخر مع شريط تواصل ومبيعات تصدير دولية",
+    "أزرار مذهبة وتأثيرات ذهبية للأرقام والمواصفات المخبرية",
+    "بطاقات منتجات ناصعة البياض مع إطارات ذهبية دقيقة وعروض فيديو",
+    "فوتر داكن متكامل مع روابط التحقق وحاسبة الحاويات"
+  ],
+  "options": {
+    "header_style": "classic",
+    "container_width": "standard",
+    "card_radius": "rounded"
+  }
+}

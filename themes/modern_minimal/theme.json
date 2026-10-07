@@ -1,0 +1,38 @@
+{
+  "name": "النمط الهندسي السويسري الحديث",
+  "name_en": "Modern Minimal High-Tech",
+  "slug": "modern_minimal",
+  "version": "3.0.0",
+  "author": "Golden Bird Charcoal Design Studio",
+  "author_url": "https://goldnberd.com",
+  "description": "قالب مستوحى من أحدث مدارس التصميم السويسرية والهندسة الصناعية، بتباين نقي وتدرجات أزرق الكوبالت المعاصر.",
+  "category": "modern",
+  "category_label": "عصري وهندسي",
+  "style_archetype": "swiss_tech",
+  "is_dark": false,
+  "tags": ["عصري", "سويسري", "دقة", "بساطة", "أداء فائق"],
+  "fonts": {
+    "heading": "'Cairo', 'Plus Jakarta Sans', sans-serif",
+    "body": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "palette": {
+    "primary": "#0f172a",
+    "primary_light": "#1e293b",
+    "accent": "#2563eb",
+    "accent_hover": "#1d4ed8",
+    "bg": "#f8fafc",
+    "surface": "#ffffff",
+    "text": "#0f172a",
+    "border": "#e2e8f0"
+  },
+  "features": [
+    "شبكة هندسية فائقة الدقة وسرعة تحميل لحظية",
+    "تباين عالي جداً ووضوح قراءة مثالي للأرقام والتحاليل المخبرية",
+    "عناصر واجهة أنيقة وبسيطة خالية من أي تعقيد بصري"
+  ],
+  "options": {
+    "header_style": "minimal",
+    "container_width": "standard",
+    "card_radius": "sharp"
+  }
+}
